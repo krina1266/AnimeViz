@@ -11,5 +11,6 @@
 2. Run the app
 
    ```
-   $ streamlit run app.py
+   с пайтона streamlit run app.py
+   если используете visual studio code то используйте python -m streamlit run app.py
    ```
